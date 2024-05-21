@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Barbershop-Management/static/css/main.f49b80b8.css",
+    "main.js": "/Barbershop-Management/static/js/main.aeaef739.js",
+    "static/js/453.1319c17b.chunk.js": "/Barbershop-Management/static/js/453.1319c17b.chunk.js",
+    "static/media/bg.png": "/Barbershop-Management/static/media/bg.aeb8545f0890a60b1eda.png",
+    "static/media/advice.jpg": "/Barbershop-Management/static/media/advice.e43fcd6821f1101da171.jpg",
+    "static/media/alpacino.jpg": "/Barbershop-Management/static/media/alpacino.92f66b1792dcc5d0657d.jpg",
+    "static/media/coloring13.jpg": "/Barbershop-Management/static/media/coloring13.52751bdde8aac3d2fe69.jpg",
+    "static/media/coloring3.jpg": "/Barbershop-Management/static/media/coloring3.ce337031ec36887990a4.jpg",
+    "static/media/style1.jpg": "/Barbershop-Management/static/media/style1.277059700043904d95f9.jpg",
+    "static/media/style4.jpg": "/Barbershop-Management/static/media/style4.3ad26c9945cf1715af22.jpg",
+    "static/media/style5.jpg": "/Barbershop-Management/static/media/style5.c686d00e4705684ce367.jpg",
+    "static/media/kesh1.png": "/Barbershop-Management/static/media/kesh1.6c2489ca3d4390938932.png",
+    "static/media/coloring11.jpg": "/Barbershop-Management/static/media/coloring11.200731e02cd6ef56c061.jpg",
+    "static/media/robertdeniro.jpg": "/Barbershop-Management/static/media/robertdeniro.36ea1874aecd5d419e28.jpg",
+    "static/media/razor2.png": "/Barbershop-Management/static/media/razor2.c0e1d784c6e2284b6d4b.png",
+    "static/media/news.jpeg": "/Barbershop-Management/static/media/news.aa69a0ab596011357c71.jpeg",
+    "static/media/img3.jpg": "/Barbershop-Management/static/media/img3.1b7031f5e3e70a4be213.jpg",
+    "static/media/trimer.png": "/Barbershop-Management/static/media/trimer.ecbdb1e19f4c1c451454.png",
+    "static/media/img4.jpeg": "/Barbershop-Management/static/media/img4.0a8ad55e3f03637c5595.jpeg",
+    "static/media/map2.jpg": "/Barbershop-Management/static/media/map2.eda38f88a184a762cac4.jpg",
+    "static/media/img5.jpeg": "/Barbershop-Management/static/media/img5.3e2770e202b1f82d4970.jpeg",
+    "index.html": "/Barbershop-Management/index.html",
+    "main.f49b80b8.css.map": "/Barbershop-Management/static/css/main.f49b80b8.css.map",
+    "main.aeaef739.js.map": "/Barbershop-Management/static/js/main.aeaef739.js.map",
+    "453.1319c17b.chunk.js.map": "/Barbershop-Management/static/js/453.1319c17b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f49b80b8.css",
+    "static/js/main.aeaef739.js"
+  ]
+}
